@@ -33,3 +33,7 @@ The program finds first N [Happy numbers](https://en.wikipedia.org/wiki/Happy_nu
 ### Number Names
 The program shows how to spell out a number in English.
 - [C++](https://github.com/julermn/Projects/blob/master/C%2B%2B/NumberName.cpp)
+### Complex number Algebra
+The class [Complex](https://github.com/julermn/Projects/blob/master/Java/Complex/app/src/main/java/Complex.java) contains functions for complex number.
+- [Main](https://github.com/julermn/Projects/blob/master/Java/Complex/app/src/main/java/App.java) function to demonstrate functions.
+- [Tests](https://github.com/julermn/Projects/blob/master/Java/Complex/app/src/test/java/AppTest.java)
