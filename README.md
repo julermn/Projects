@@ -20,3 +20,16 @@ The program finds all Prime Factors for the given number.
 The program finds and displays prime numbers until the user chooses to stop asking for the next one.
 - [Java](https://github.com/julermn/Projects/blob/master/Java/NextPrime.java)
 - [C++](https://github.com/julermn/Projects/blob/master/C%2B%2B/NextPrime.cpp)
+### Factorial
+The programs find the factorial of a positive integer N. It solved with recursion and loops.
+- [Java with recursion](https://github.com/julermn/Projects/blob/master/Java/Factorial1.java)
+- [Java with loops](https://github.com/julermn/Projects/blob/master/Java/Factorial2.java)
+- [C++ with recursion](https://github.com/julermn/Projects/blob/master/C%2B%2B/Factorial1.cpp)
+- [C++ with loops](https://github.com/julermn/Projects/blob/master/C%2B%2B/Factorial2.cpp)
+### Happy Numbers
+The program finds first N [Happy numbers](https://en.wikipedia.org/wiki/Happy_number).
+- [Java](https://github.com/julermn/Projects/blob/master/Java/HappyNumber.java)
+- [C++](https://github.com/julermn/Projects/blob/master/C%2B%2B/HappyNumber.cpp)
+### Number Names
+The program shows how to spell out a number in English.
+- [C++](https://github.com/julermn/Projects/blob/master/C%2B%2B/NumberName.cpp)
